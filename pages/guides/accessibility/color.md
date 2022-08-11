@@ -2,7 +2,8 @@
 title: 'Accessibility: Color and contrast'
 lead: 'How we work with color and contrast'
 permalink: /guides/accessibility/color/
-include_subnav: true
+agency: Color and contrast
+subnav_title: Color and contrast
 subnav_items:
   - text: Testing
     permalink: /guides/accessibility/color/#testing

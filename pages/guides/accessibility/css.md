@@ -2,7 +2,8 @@
 title: 'Accessibility: CSS dependence'
 lead: 'How we deal with CSS'
 permalink: /guides/accessibility/css/
-include_subnav: true
+agency: CSS dependence
+subnav_title: CSS dependence
 subnav_items:
   - text: A - Critical
     permalink: /guides/accessibility/checklist/#a---critical

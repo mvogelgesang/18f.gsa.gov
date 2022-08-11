@@ -3,7 +3,7 @@ title: Tools
 lead: 'Tools we use to improve and test accessibility'
 permalink: /guides/accessibility/tools/
 agency: Accessibility-friendly Tools
-subnav_title: Checklist
+subnav_title: Tools
 subnav_items:
   - text: Color Tools
     permalink: /guides/accessibility/tools/#color-tools

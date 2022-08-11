@@ -10,7 +10,7 @@ subnav_items:
   - text: Examples
     permalink: /guides/accessibility/timeouts/#examples
 scripts:
-- assets/js/time-outs.js
+- assets/js/guides/accessibility/time-outs.js
 ---
 If timeouts are used, you must give the user at least 20 seconds to easily request more time.
 
