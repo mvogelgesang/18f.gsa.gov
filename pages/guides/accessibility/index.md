@@ -1,0 +1,97 @@
+---
+published: true
+permalink: /guides/accessibility/
+filename: index.md
+title: 'Guides: Accessibility'
+include_subnav: true
+subnav_items:
+  - text: Checklist
+    permalink: /guides/accessibility/checklist/
+  - text: Tools
+    permalink: /guides/accessibility/tools/
+  - text: Keyboard access
+    permalink: /guides/accessibility/keyboard/
+  - text: Images
+    permalink: /guides/accessibility/images/
+  - text: Color and contrast
+    permalink: /guides/accessibility/color/
+  - text: Forms
+    permalink: /guides/accessibility/forms/
+  - text: Flashing
+    permalink: /guides/accessibility/flashing/
+  - text: Page titles
+    permalink: /guides/accessibility/page-titles/
+  - text: Headings
+    permalink: /guides/accessibility/headings/
+  - text: Hidden content
+    permalink: /guides/accessibility/hidden-content/
+  - text: Landmarks
+    permalink: /guides/accessibility/landmarks/
+  - text: Multimedia
+    permalink: /guides/accessibility/multimedia/
+  - text: Timeouts
+    permalink: /guides/accessibility/timeouts/
+  - text: Language
+    permalink: /guides/accessibility/language/
+  - text: Tables
+    permalink: /guides/accessibility/tables/
+  - text: CSS dependence
+    permalink: /guides/accessibility/css/
+  - text: Inline frames
+    permalink: /guides/accessibility/iframes/
+  - text: Links and repetitive content
+    permalink: /guides/accessibility/links/
+  - text: Alternative versions
+    permalink: /guides/accessibility/alternative-versions/
+  - text: Writing guide
+    permalink: /guides/accessibility/writing-guide/
+  - text: Trainings and videos
+    permalink: /guides/accessibility/training-videos/
+---
+
+Accessibility is one of the most important aspects of modern web development. Accessibility means the greatest number of users can view your content. It means search engines will be able to read your site more completely. Users of all types will have a better experience if you take accessibility concerns into account. And least of all, it is required by law for all federal information and communication technology (ICT) products to be accessible (with a few minor exceptions).
+
+Accessibility works best when incorporated into an agile production environment. It's very hard to adequately address accessibility concerns at the end of a project, but if taken into account at the beginning, it's quite straightforward and cost effective. The best way to ensure this is done is through training and education. Every member of a production team should be aware of what accessibility concerns are and have a basic understanding of how they are addressed.
+
+The Web Content Accessibility Guidelines (WCAG) have long been the gold standard for accessibility on the web. Here at 18F we follow [WCAG2.0 AA](https://www.w3.org/TR/WCAG20/) as our minimum standard for accessibility.  
+
+If you have questions about accessibility or would like help, please reach out on the [GitHub Repo](https://github.com/18F/18f.gsa.gov).
+
+__Disclaimer:__ This resource is intended to help 18F develop accessible products and is not a replacement for the standards defined by the U.S. Access Board. Please visit the [Access Board's Section 508 Standards for ICT](https://www.access-board.gov/ict/) for more information.
+
+## Resources
+
+### Testing Tools
+
+Please see [our tools page for a listing of accessibility testing tools](tools/). 
+
+### Government Sites and tutorials
+* [Section 508](https://section508.gov/)
+* [Accessibility for Teams](https://accessibility.digital.gov/)
+* [18F Accessibility Checklist](./checklist/)
+* [U.S. Web Design System Accessibility Tips](https://designsystem.digital.gov/documentation/accessibility/)
+* [ANDI video training series (GSA)](https://www.section508.gov/training/web-software/andi-training-videos/)
+* [GSA Accessibility Aids](https://www.gsa.gov/website-information/accessibility-aids)
+* [Create Accessible PDFs](https://www.section508.gov/create/pdfs)
+* [Required fixes for PDFs](https://www.hhs.gov/web/section-508/making-files-accessible/pdf-required/)
+* [Making Files Accessible PDF, Word, Excel, PowerPoint](https://www.hhs.gov/web/section-508/os-training-resources/)
+
+### World Wide Web Consortium's Web Accessibility Initiative
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+* [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+* [Accessible Rich Internet Applications (ARIA) Documentation](https://www.w3.org/html/wg/drafts/html/master/dom.html#wai-aria) 
+* [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+
+### Misc Sites and tutorials
+* [Inclusive Components](https://inclusive-components.design/) - A blog about designing inclusive web interfaces, piece by piece.
+* [WebAIM's Blog](http://webaim.org/blog/)
+* [The Accessibility Project](https://a11yproject.com/) - Good accessibility blog.
+* [Knowbility's Blog - WCAG 2.1 Series](https://knowbility.org/blog/2018/WCAG21-intro/)
+* [Simply Accessible](http://simplyaccessible.com/archives/) - A great blog and resource with articles about modern accessibility.
+* [WebAIM's Accessibility Resources](https://webaim.org/resources/)
+* [Tips for creating Accessible SVGs](https://www.sitepoint.com/tips-accessible-svg/)
+* [Udacity Web Accessibility Course](https://www.udacity.com/course/web-accessibility--ud891) - Free web accessibility course by Google
+* [Vox Accessibility Guidelines Checklist](https://accessibility.voxmedia.com/)
+* [CanIUse.com](https://caniuse.com/) - useful for HTML5, ARIA & CSS 
+* [New Zealand Web Accessibility Standard 1.1](https://www.digital.govt.nz/standards-and-guidance/nz-government-web-standards/web-accessibility-standard-1-1/)

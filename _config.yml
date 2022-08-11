@@ -74,6 +74,17 @@ defaults:
     path: "pages"
   values:
     layout: primary
+ - 
+  scope:
+    path: "pages/guides/accessibility/*"
+  values:
+    include_subnav: true
+    breadcrumb: true
+    parent_title: Guides
+    parent_permalink: /guides/
+    sub_parent_title: Accessibility
+    sub_parent_permalink: /guides/accessibility/
+    sub_parent_agency: Accessibility
  -
   scope:
     path: "_authors"
