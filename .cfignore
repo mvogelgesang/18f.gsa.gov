@@ -1,4 +1,5 @@
 .git
 assets
 !_site/assets
-
+node_modules
+.jekyll-cache

@@ -1,0 +1,10 @@
+---
+memory: 64M
+instances: 1
+applications:
+- name: mark
+buildpack: https://github.com/cloudfoundry-incubator/staticfile-buildpack.git
+env:
+  FORCE_HTTPS: true
+random-route: true
+start-command: bundle exec jekyll serve
